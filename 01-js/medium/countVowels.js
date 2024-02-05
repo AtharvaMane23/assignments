@@ -18,7 +18,6 @@ function countVowels(str) {
       else{
         vowelCount = vowelCount
       }
-      
     }
     return vowelCount;
 }
